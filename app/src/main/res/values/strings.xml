@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WAKE UP!</string>
+    <string name="time">....</string>
+    <string name="select_time">SELECT ALARM</string>
+</resources>
